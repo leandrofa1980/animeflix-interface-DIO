@@ -41,10 +41,10 @@ header nav a:hover {
 }
 
 /* filme principal */
-.filme-principal {
+.anime-principal {
   font-size: 16px;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 100%),
-    url('/netflix-interface-DIO/img/capaAttack.jpg');
+    url(../img/capaAttack.jpg);
 
   height: 400px;
   background-size: cover;
@@ -55,12 +55,12 @@ header nav a:hover {
   align-items: flex-start;
 }
 
-.filme-principal .descricao {
+.anime-principal .descricao {
   margin-top: 10px;
   margin-bottom: 40px;
 }
 
-.filme-principal .titulo {
+.anime-principal .titulo {
   margin-top: 15%;
   font-size: 40px;
   font-family: 'Trebuchet MS', Arial, sans-serif;
@@ -96,7 +96,7 @@ header nav a:hover {
   margin-left: 20px;
 }
 
-.filme-principal .container {
+.anime-principal .container {
   width: 70%;
 }
 
